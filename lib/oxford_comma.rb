@@ -6,6 +6,6 @@ def oxford_comma(array)
     when 1
       "#{array[0]}"
     else
-      arr2 = array.pop.join(", ") + ", and #{array[length - 1]}"
+      arr2 = array.pop
   end
 end
