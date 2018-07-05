@@ -1,6 +1,6 @@
 def oxford_comma(array)
   length = array.length
-  case
+  case i
   
   end
 end
